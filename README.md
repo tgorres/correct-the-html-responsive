@@ -31,7 +31,7 @@ Please refer to `mockup.jpg` in the repository.
 - [X] Add styles.css with the proper `link` tag.
 - [X] Best efforts to convert HTML (divs) to semantic HTML.
 - [X] Create a 2 column layout using `grid` or `flexbox` for the content using the existing media query in `styles.css`.
-- [ ] Replace image placeholders with images from `img` folder.
+- [X] Replace image placeholders with images from `img` folder.
 - [ ] Link the `click here` link to the story page in the `stories` folder.
 - [ ] * ***BONUS*** * Update `stories\ai-takes-over.html` to include the updates from `index.html`
 
